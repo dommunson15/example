@@ -1,3 +1,3 @@
-# Read me
+# Second Branch
 
-Hello!
+Welcome to the 2nd branch
